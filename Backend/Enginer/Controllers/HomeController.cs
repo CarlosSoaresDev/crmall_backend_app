@@ -35,7 +35,7 @@ namespace Enginer.Controllers
             // Pega todos os registro de clientes da data de hoje e tras em contagem
             var _AllClientNow = _apiContext.Client.Where(x => x.CreatAt >= Start && x.CreatAt <= End).Count();
             // Pega os ultimos 5 registros de clientes e tras em listas 
-            var _ClientTake = _apiContext.Client.Take(5).OrderByDescending(x => x.CreatAt).ToList();
+            var _ClientTake = _apiContext.Client.OrderByDescending(x => x.CreatAt).Take(5).ToList();
 
             // Criando um novo Objeto e passando os dados para ele
             return Ok(new
