@@ -6,7 +6,7 @@ GET: api/v1/Home
 
 # Endpoint Client
 
-GET: api/v1/Client /
+GET: api/v1/Client <br>
 GET: api/v1/Client/{id} -> int /
 PUT: api/v1/Client/{id} -> int & Body -> Object /
 POST: api/v1/Client - Body -> Object
