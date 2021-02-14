@@ -1,6 +1,6 @@
 # Backend
 
-# Endpoint Client
+# Endpoint Home
 
 GET: api/v1/Home
 
@@ -13,7 +13,7 @@ POST: api/v1/Client - Body -> Object <br>
 POST: api/v1/Client/Filter - Body -> Object <br>
 DELETE: api/v1/Client/{id} -> int  <br>
 
-# Endpoint Client
+# Endpoint Gender
 
 GET: api/v1/Gender <br>
 GET: api/v1/Gender/{id} -> int
