@@ -1,0 +1,18 @@
+C:\crmall\Nova pasta\Backend\Business\bin\Debug\netcoreapp2.1\Business.deps.json
+C:\crmall\Nova pasta\Backend\Business\bin\Debug\netcoreapp2.1\Business.dll
+C:\crmall\Nova pasta\Backend\Business\bin\Debug\netcoreapp2.1\Business.pdb
+C:\crmall\Nova pasta\Backend\Business\obj\Debug\netcoreapp2.1\Business.csprojAssemblyReference.cache
+C:\crmall\Nova pasta\Backend\Business\obj\Debug\netcoreapp2.1\Business.csproj.CoreCompileInputs.cache
+C:\crmall\Nova pasta\Backend\Business\obj\Debug\netcoreapp2.1\Business.AssemblyInfoInputs.cache
+C:\crmall\Nova pasta\Backend\Business\obj\Debug\netcoreapp2.1\Business.AssemblyInfo.cs
+C:\crmall\Nova pasta\Backend\Business\obj\Debug\netcoreapp2.1\Business.dll
+C:\crmall\Nova pasta\Backend\Business\obj\Debug\netcoreapp2.1\Business.pdb
+C:\crmall\project\Backend\Business\bin\Debug\netcoreapp2.1\Business.deps.json
+C:\crmall\project\Backend\Business\bin\Debug\netcoreapp2.1\Business.dll
+C:\crmall\project\Backend\Business\bin\Debug\netcoreapp2.1\Business.pdb
+C:\crmall\project\Backend\Business\obj\Debug\netcoreapp2.1\Business.csprojAssemblyReference.cache
+C:\crmall\project\Backend\Business\obj\Debug\netcoreapp2.1\Business.csproj.CoreCompileInputs.cache
+C:\crmall\project\Backend\Business\obj\Debug\netcoreapp2.1\Business.AssemblyInfoInputs.cache
+C:\crmall\project\Backend\Business\obj\Debug\netcoreapp2.1\Business.AssemblyInfo.cs
+C:\crmall\project\Backend\Business\obj\Debug\netcoreapp2.1\Business.dll
+C:\crmall\project\Backend\Business\obj\Debug\netcoreapp2.1\Business.pdb

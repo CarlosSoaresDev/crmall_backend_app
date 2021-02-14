@@ -1,0 +1,34 @@
+C:\crmall\Nova pasta\Backend\Enginer\bin\Debug\netcoreapp2.1\Business.dll
+C:\crmall\Nova pasta\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.csprojAssemblyReference.cache
+C:\crmall\Nova pasta\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.csproj.CoreCompileInputs.cache
+C:\crmall\Nova pasta\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.RazorAssemblyInfo.cache
+C:\crmall\Nova pasta\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.RazorAssemblyInfo.cs
+C:\crmall\Nova pasta\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.AssemblyInfoInputs.cache
+C:\crmall\Nova pasta\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.AssemblyInfo.cs
+C:\crmall\Nova pasta\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.RazorTargetAssemblyInfo.cache
+C:\crmall\Nova pasta\Backend\Enginer\bin\Debug\netcoreapp2.1\Enginer.deps.json
+C:\crmall\Nova pasta\Backend\Enginer\bin\Debug\netcoreapp2.1\Enginer.runtimeconfig.json
+C:\crmall\Nova pasta\Backend\Enginer\bin\Debug\netcoreapp2.1\Enginer.runtimeconfig.dev.json
+C:\crmall\Nova pasta\Backend\Enginer\bin\Debug\netcoreapp2.1\Enginer.dll
+C:\crmall\Nova pasta\Backend\Enginer\bin\Debug\netcoreapp2.1\Enginer.pdb
+C:\crmall\Nova pasta\Backend\Enginer\bin\Debug\netcoreapp2.1\Business.pdb
+C:\crmall\Nova pasta\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.csproj.CopyComplete
+C:\crmall\Nova pasta\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.dll
+C:\crmall\Nova pasta\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.pdb
+C:\crmall\project\Backend\Enginer\bin\Debug\netcoreapp2.1\Enginer.deps.json
+C:\crmall\project\Backend\Enginer\bin\Debug\netcoreapp2.1\Enginer.runtimeconfig.json
+C:\crmall\project\Backend\Enginer\bin\Debug\netcoreapp2.1\Enginer.runtimeconfig.dev.json
+C:\crmall\project\Backend\Enginer\bin\Debug\netcoreapp2.1\Enginer.dll
+C:\crmall\project\Backend\Enginer\bin\Debug\netcoreapp2.1\Enginer.pdb
+C:\crmall\project\Backend\Enginer\bin\Debug\netcoreapp2.1\Business.dll
+C:\crmall\project\Backend\Enginer\bin\Debug\netcoreapp2.1\Business.pdb
+C:\crmall\project\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.csprojAssemblyReference.cache
+C:\crmall\project\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.csproj.CoreCompileInputs.cache
+C:\crmall\project\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.RazorAssemblyInfo.cache
+C:\crmall\project\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.RazorAssemblyInfo.cs
+C:\crmall\project\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.AssemblyInfoInputs.cache
+C:\crmall\project\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.AssemblyInfo.cs
+C:\crmall\project\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.RazorTargetAssemblyInfo.cache
+C:\crmall\project\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.csproj.CopyComplete
+C:\crmall\project\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.dll
+C:\crmall\project\Backend\Enginer\obj\Debug\netcoreapp2.1\Enginer.pdb
